@@ -29,4 +29,4 @@ The analysis aims to provide insights into:
 * Interactive Development: Jupyter Notebooks
 
 ## Acknowledgements
-I want to extend my deepest gratitude to @JafarzadeAysel for her invaluable support and guidance throughout my first project!
+Extending my deepest gratitude to @JafarzadeAysel for her invaluable support and guidance throughout my first project!
